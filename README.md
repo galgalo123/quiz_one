@@ -86,7 +86,7 @@ kbs-practical-quiz/
 ```
 
 ## Requirements
-- Python 3.x
+- Python 3.14.3
 - Jupyter Notebook (or JupyterLab/VS Code with Jupyter extension)
 
 No external libraries required - uses only Python standard library.
